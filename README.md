@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java programming
 - 🌱 I’m currently learning SQL andSpring 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me sdarendthegoodest@gmail.com
+- 📫 How to reach me obscurityzxc@gmail.com
 
 <!---
 Xbscurity/Xbscurity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
