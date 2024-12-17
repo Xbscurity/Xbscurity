@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xbscurity
-- 👀 I’m interested in Java programming
-- 🌱 I’m currently learning SQL andSpring 
+- 👀 I’m interested in c# programming
+- 🌱 I’m currently learning asp net core
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me obscurityzxc@gmail.com
 
